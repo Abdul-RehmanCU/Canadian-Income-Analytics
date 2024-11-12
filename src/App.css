@@ -1,0 +1,14 @@
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+
+header h1 {
+  color: #333;
+}
+
+.chart-container {
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+}
