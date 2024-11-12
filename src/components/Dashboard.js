@@ -36,9 +36,9 @@ const Dashboard = () => {
         </div>
         
         <nav className="flex flex-col space-y-10">
-          <a href="#" className="text-gray-400 hover:text-white transition duration-200">Overview</a>
-          <a href="#" className="text-gray-400 hover:text-white transition duration-200">Reports</a>
-          <a href="#" className="text-gray-400 hover:text-white transition duration-200">Settings</a>
+          <a className="text-gray-400 hover:text-white transition duration-200">Overview</a>
+          <a className="text-gray-400 hover:text-white transition duration-200">Reports</a>
+          <a className="text-gray-400 hover:text-white transition duration-200">Settings</a>
         </nav>
       </aside>
 
