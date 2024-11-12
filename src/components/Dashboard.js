@@ -18,7 +18,7 @@ const Dashboard = () => {
 
   return (
     <div className={`${darkMode ? "dark" : ""} flex min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-100`}>
-      {/* Sidebar */}
+      //Sidebar
       <aside className="w-1/5 bg-gray-700 dark:bg-gray-800 text-gray-400 dark:text-white p-5 flex flex-col items-center transtion duration-600">
         <div className="w-full flex justify-between items-center mb-8">
           <h2 className="text-3xl font-bold">Navigation</h2>
@@ -36,13 +36,13 @@ const Dashboard = () => {
         </div>
         
         <nav className="flex flex-col space-y-10">
-          <a className="text-gray-400 hover:text-white transition duration-200">Overview</a>
-          <a className="text-gray-400 hover:text-white transition duration-200">Reports</a>
-          <a className="text-gray-400 hover:text-white transition duration-200">Settings</a>
+          <a href="#" className="text-gray-400 hover:text-white transition duration-200">Overview</a>
+          <a href="#" className="text-gray-400 hover:text-white transition duration-200">Reports</a>
+          <a href="#" className="text-gray-400 hover:text-white transition duration-200">Settings</a>
         </nav>
       </aside>
 
-      {/* Main Content */}
+      //Main
       <main className="flex-1 p-6 space-y-6 bg-gray-100 dark:bg-gray-900 ">
         <Header />
         <section className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg animate-slide-in-up">
