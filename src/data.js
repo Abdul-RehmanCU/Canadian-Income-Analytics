@@ -14,3 +14,26 @@ export const incomeData = [
     {province: "YT", income: 62500, hs: 531609},
 ];
 
+export const housingData =[
+    {year: 2005, CDN: 240000, US: 283000},
+    {year: 2006, CDN: 262000, US: 301000},
+    {year: 2007, CDN: 294000, US: 315000},
+    {year: 2008, CDN: 323000, US: 285000},
+    {year: 2009, CDN: 299000, US: 245000},
+    {year: 2010, CDN: 330000, US: 283000},
+    {year: 2011, CDN: 338000, US: 276000},
+    {year: 2012, CDN: 365000, US: 266000},
+    {year: 2013, CDN: 368000, US: 307000},
+    {year: 2014, CDN: 387000, US: 337000},
+    {year: 2015, CDN: 409000, US: 348000},
+    {year: 2016, CDN: 456000, US: 361000},
+    {year: 2017, CDN: 528000, US: 358000},
+    {year: 2018, CDN: 549000, US: 378000},
+    {year: 2019, CDN: 527000, US: 361000},
+    {year: 2020, CDN: 537000, US: 384000},
+    {year: 2021, CDN: 618000, US: 419000},
+    {year: 2022, CDN: 810000, US: 501000},
+    {year: 2023, CDN: 712000, US: 496000},
+    
+]
+
