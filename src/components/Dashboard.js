@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import Header from "./Header";
 import DataVisualization from "./DataVisualization";
 import { FiMenu, FiSun, FiMoon } from "react-icons/fi";
-import SunIcon from "../assets/SunIcon.svg";
-import MoonIcon from "../assets/MoonIcon.svg";
 
 
 const Dashboard = () => {
