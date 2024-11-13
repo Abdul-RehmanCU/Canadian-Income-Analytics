@@ -34,6 +34,7 @@ export const housingData =[
     {year: 2021, CDN: 618000, US: 419000},
     {year: 2022, CDN: 810000, US: 501000},
     {year: 2023, CDN: 712000, US: 496000},
-    
 ]
+/* https://tradingeconomics.com/canada/average-house-prices */
+/* https://tradingeconomics.com/united-states/average-house-prices */
 
