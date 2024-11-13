@@ -1,5 +1,5 @@
 export const incomeData = [
-    {province: "BC", income: 66232, hs: 969306, fp: "1357"  },
+    {province: "BC", income: 66232, hs: 969306},
     {province: "AB", income: 74237, hs: 450105},
     {province: "MB", income: 58500, hs: 351445},
     {province: "NB", income: 57336, hs: 292600},
